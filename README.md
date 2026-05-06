@@ -17,5 +17,5 @@
 
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/(https://www.linkedin.com/in/ahmed-sedek-2869a1244)-blue)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Sedek-blue)](https://www.linkedin.com/in/ahmed-sedek-2869a1244)
 📧 ahmedsedek295@gmail.com
